@@ -10,8 +10,8 @@ $ git config --global alias.ci commit
 $ git config --global alias.st status
 
 Configuer GitHub :
-$ git config --global user.name "[AGHATE]"
-$ git config --global user.email "[alexandre.ricart@outlook.com]"
+$ git config --global user.name "[AlexandreR]"
+$ git config --global user.email "[alex.ric@cp.ch]"
 
 Modification GitHub :
 D'abord se placer dans le bon réprtoire (du fichier)
@@ -24,4 +24,9 @@ $git add [nom_fichier]
 Commiter :
 $git commit -m "[une description]"
 
+Pusher :
+$git Push
+
+Initialiser un rép:
+$git init /**ATTENTION AU REPERTOIRE**/
 
