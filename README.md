@@ -24,4 +24,5 @@ $git add [nom_fichier]
 Commiter :
 $git commit -m "[une description]"
 
-
+Push :
+$git push
