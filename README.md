@@ -30,3 +30,6 @@ $git Push
 Initialiser un rép:
 $git init /**ATTENTION AU REPERTOIRE**/
 
+git pull : download depuis le serveur
+
+git push : upload sur le serveur
